@@ -1,7 +1,7 @@
 /* -*- Mode: C; indent-tabs-mode: t; c-basic-offset: 4; tab-width: 4 -*-  */
 /*
  * main.c
- * Copyright (C) 2015 Andrew Ivanov <search_terminal@mail.ru>
+ * Copyright (C) 2015 Andrew Ivanov <armv7hf@gmail.com>
  * 
  * DHT is free software: you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
